@@ -1,0 +1,1 @@
+streamlit run "F:/New chapter/PG/DSA/Behredin_Image_CLa/BMAN_IP.py"
